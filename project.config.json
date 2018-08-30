@@ -10,7 +10,7 @@
 	"compileType": "game",
 	"libVersion": "game",
 	"appid": "wx680ed9137317644f",
-	"projectname": "FlappyBird",
+	"projectname": "Mini-FlappyBird",
 	"condition": {
 		"search": {
 			"current": -1,
