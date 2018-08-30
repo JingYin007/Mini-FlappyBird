@@ -1,3 +1,4 @@
+
 # 微信小程序使用说明
 **此版本是在小程序中使用的版本，即在浏览器中是没办法正常识别的，需要浏览器版本的同学请自行到群文件去下载**
 
@@ -20,3 +21,13 @@ wx.onTouchStart();
 
 **注意，babel配置可有可无，属于扩展知识，选择最新的Chrome浏览器，不需要将ES6语法转换成ES5，可以比较好的识别和兼容**
 
+
+## 测试代码
+```
+var canvas = wx.createCanvas();
+console.log(canvas.width+'|'+canvas.height);
+var context = canvas.getContext('2d');
+context.fillStyle = 'red';
+context.fillRect(0, 0, 100, 100);
+```
+- appID: wx680ed9137317644f
