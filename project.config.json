@@ -1,7 +1,7 @@
 {
 	"description": "项目配置文件。",
 	"setting": {
-		"urlCheck": false,
+		"urlCheck": true,
 		"es6": true,
 		"postcss": true,
 		"minified": true,
@@ -9,7 +9,7 @@
 	},
 	"compileType": "game",
 	"libVersion": "game",
-	"appid": "wx680ed9137317644f",
+	"appid": "wxed2886abd78e4808",
 	"projectname": "Mini-FlappyBird",
 	"condition": {
 		"search": {
