@@ -1,3 +1,8 @@
 {
+<<<<<<< HEAD
     "deviceOrientation": "portrait"
+=======
+  "deviceOrientation": "portrait",
+  "showStatusBar": true
+>>>>>>> d370af8c58e652b9975d8e674286713ce436f16b
 }
